@@ -1,0 +1,15 @@
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\bin\Debug\net7.0\exercicioVetores.exe
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\bin\Debug\net7.0\exercicioVetores.deps.json
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\bin\Debug\net7.0\exercicioVetores.runtimeconfig.json
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\bin\Debug\net7.0\exercicioVetores.dll
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\bin\Debug\net7.0\exercicioVetores.pdb
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.csproj.AssemblyReference.cache
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.AssemblyInfoInputs.cache
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.AssemblyInfo.cs
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.csproj.CoreCompileInputs.cache
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.dll
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\refint\exercicioVetores.dll
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.pdb
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\exercicioVetores.genruntimeconfig.cache
+C:\Temp\ws-vs2019\exercicioVetores\exercicioVetores\obj\Debug\net7.0\ref\exercicioVetores.dll
